@@ -7,7 +7,7 @@
   </a>
 </p>
 
-> This are all bunch of source codes for some random fetaures that could help you in your next web projects, Note: I have added tags to folder to let you know which language was used here for more clarification
+> This are all bunch of source codes for some random fetaures that could help you in your next web projects, Note: I have added tags to folder to let you know which language or framework or database was used here for more clarification
 
 ## Author
 
